@@ -1,3 +1,4 @@
+//Leen Alghamdi - 2210371 - SE1
 const form = document.getElementById("teamForm");
 const teamInput = document.getElementById("teamInput");
 const resultDiv = document.getElementById("result");
